@@ -1,1 +1,1 @@
-# BookNest — библиотека nFactorial
+# BookNest — каталог книг nFactorial
