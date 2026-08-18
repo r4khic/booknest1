@@ -1,2 +1,1 @@
-# BookNest
-Каталог книг. Учебный проект nFactorial.
+# BookNest — библиотека nFactorial
